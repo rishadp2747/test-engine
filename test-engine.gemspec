@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.version     = Test::Engine::VERSION
   spec.authors     = ['rishadp']
   spec.email       = ['rishadp2747@gmail.com']
-  spec.summary = 'To manage payments on neeto applications'
+  spec.summary = 'To manage  on neeto applications'
   spec.description = 'A gem made using rails engine for neeto applications to manage payment'
   spec.homepage = 'http://neeto.com/'
   spec.license = 'MIT'
