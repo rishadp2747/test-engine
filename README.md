@@ -4,7 +4,7 @@ Short description and motivation.
 ## Usage
 How to use my plugin.
 
-## Installation
+## Installation 1
 Add this line to your application's Gemfile:
 
 ```ruby
