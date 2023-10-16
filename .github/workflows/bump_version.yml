@@ -26,7 +26,6 @@ jobs:
 
       - name: Bump version and create PR
         uses: bigbinary/bump-product-version@8-debug-random-failure-in-commit-creation
-        continue-on-error: true
         with:
           labels: ${{ join(github.event.pull_request.labels.*.name, ',') }}
           token: ${{ secrets.GITHUB_TOKEN }}
