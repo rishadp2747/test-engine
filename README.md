@@ -1,5 +1,5 @@
 # Test::Engine 4
-Short description and motivation.
+Short description and motivation
 
 ## Usage
 How to use my plugin.
